@@ -17,7 +17,7 @@
 		"eslint-plugin-svelte": "^2.39.0",
 		"globals": "^15.3.0",
 		"svelte": "^5.0.0-next.147",
-		"vite": "^5.4.17"
+		"vite": "^5.4.18"
 	},
 	"type": "module",
 	"dependencies": {
